@@ -1,0 +1,9 @@
+{
+    "name": "exrc/grabber",
+    "require": {
+        "monolog/monolog": "1.0.*"
+    },
+    "autoload": {
+        "classmap": [ "grabber.php" ]
+    }
+}
